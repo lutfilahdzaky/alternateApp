@@ -1,0 +1,14 @@
+{
+    "version": 80000,
+    "title": "Update Available! v0.8.0",
+    "message": " \u2022 New UI\n \u2022 Added New Features\n \u2022 Added translations\n \u2022 Improved app performance\n \u2022 Bug fixes",
+    "cancelable": false,
+    "url": "https://lutfilahdz.my.id/app/app.apk",
+    "isUpdate": true,
+    "isApk": true,
+    "isLink": false,
+    "isNegative": true,
+    "bottomMessage": "Update Available! v0.8.0-beta5",
+    "isAlternative": false,
+    "alternativeLink": "https://lutfilahdz.my.id/app/app.apk"
+}
