@@ -6,7 +6,7 @@
     "url": "https://google.com",
     "isUpdate": true,
     "isApk": false,
-    "isLink": false,
+    "isLink": true,
     "isNegative": true,
     "bottomMessage": "Update Available! v0.8.2",
     "isAlternative": true,
