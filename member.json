@@ -11,6 +11,7 @@
         "artist": true,
         "partner": false,
         "developer": true,
+        "message": "https://t.me/lutfilahdzaky",
         "tagName": "Main Developer",
         "tagText": "ffffff",
         "tagBackground": "ff3232"
@@ -27,7 +28,8 @@
         "artist": true,
         "partner": false,
         "developer": false,
-        "tagName": "Neko",
+        "message": "https://discord.gg/MXBycqz",
+        "tagName": "Discord Administrator",
         "tagText": "ffffff",
         "tagBackground": "f8bbd0"
     },
@@ -43,6 +45,7 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "https://t.me/MiyukiHoutarou",
         "tagName": "Main Administrator",
         "tagText": "ffffff",
         "tagBackground": "000000"
@@ -59,6 +62,7 @@
         "artist": false,
         "partner": true,
         "developer": false,
+        "message": "https://t.me/SanzDi",
         "tagName": "Official Partner",
         "tagText": "ffffff",
         "tagBackground": "ff3232"
@@ -75,6 +79,7 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "https://t.me/Ilham_maulana1",
         "tagName": "Telegram Moderator",
         "tagText": "ffffff",
         "tagBackground": "00ff27"
@@ -91,6 +96,7 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "https://instagram.com/zulhinugroho",
         "tagName": "Friends",
         "tagText": "ffffff",
         "tagBackground": "9cb10a"
@@ -107,6 +113,7 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "https://t.me/XDarkNavx",
         "tagName": "Beta Tester",
         "tagText": "ffffff",
         "tagBackground": "ff7d00"
@@ -123,15 +130,16 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "https://t.me/",
         "tagName": "Beta Tester",
         "tagText": "ffffff",
         "tagBackground": "ff7d00"
     },
     {
-        "username": "RetiredF",
-        "name": "Move To Discord",
+        "username": "OnlyEARA",
+        "name": "KING - EARA",
         "bio": "https://discord.gg/kHJHw5U7fR",
-        "avatar": "",
+        "avatar": "https://cdn.discordapp.com/avatars/773881220584308737/68f6efb8d9cf7865355c0d7c90b3754a.png?size=4096",
         "cover": "",
         "followers": 0,
         "following": 0,
@@ -139,6 +147,7 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "https://discord.gg/MXBycqz",
         "tagName": "Beta Tester",
         "tagText": "ffffff",
         "tagBackground": "ff7d00"
@@ -155,6 +164,7 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "https://t.me/TITIT_KUDA",
         "tagName": "Beta Tester",
         "tagText": "ffffff",
         "tagBackground": "ff7d00"
@@ -171,6 +181,7 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "https://t.me/acnologia_yt",
         "tagName": "Beta Tester",
         "tagText": "ffffff",
         "tagBackground": "ff7d00"
@@ -187,6 +198,7 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "",
         "tagName": "Beta Tester",
         "tagText": "ffffff",
         "tagBackground": "ff7d00"
@@ -203,6 +215,7 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "https://t.me/VersionX",
         "tagName": "Beta Tester",
         "tagText": "ffffff",
         "tagBackground": "ff7d00"
@@ -219,6 +232,7 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "https://t.me/diabloanjay",
         "tagName": "Beta Tester",
         "tagText": "ffffff",
         "tagBackground": "ff7d00"
@@ -235,6 +249,7 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "https://t.me/Im_Hasbi",
         "tagName": "Beta Tester",
         "tagText": "ffffff",
         "tagBackground": "ff7d00"
@@ -251,6 +266,7 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "https://t.me/Leryzel",
         "tagName": "Beta Tester",
         "tagText": "ffffff",
         "tagBackground": "ff7d00"
@@ -267,6 +283,7 @@
         "artist": false,
         "partner": false,
         "developer": false,
+        "message": "https://t.me/PouGaminG",
         "tagName": "Beta Tester",
         "tagText": "ffffff",
         "tagBackground": "ff7d00"
