@@ -304,5 +304,22 @@
         "tagName": "Beta Tester",
         "tagText": "ffffff",
         "tagBackground": "ff7d00"
+    },
+    {
+        "username": "SubaktiKesumaGMG",
+        "name": "【TRN】• Subakti",
+        "bio": "Dm = Donate No Donate No Answer",
+        "avatar": "https://raw.githubusercontent.com/lutfilahdzaky/alternateApp/master/avatar/SubaktiKesumaGMG.jpg",
+        "cover": "",
+        "followers": 0,
+        "following": 0,
+        "verified": false,
+        "artist": false,
+        "partner": false,
+        "developer": false,
+        "message": "https://t.me/SubaktiKesumaGMG",
+        "tagName": "",
+        "tagText": "",
+        "tagBackground": ""
     }
 ]
