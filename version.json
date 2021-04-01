@@ -1,14 +1,14 @@
 {
     "version": 900000,
-    "title": "Update Available! v0.9.0",
-    "message": " \u2022 Updated some features to pubgm version 1.2.0\n \u2022 Added new features\n \u2022 Fixed 3rd party banned on some devices\n \u2022 Improved Aimlock feature\n \u2022 etc.",
+    "title": "Update Available! v1.0.0+",
+    "message": " \u2022 You have to update this application if you want to use it",
     "cancelable": false,
-    "url": "https://apkmodif.com/p3J1",
+    "url": "https://t.me/lutfilahdz",
     "isUpdate": true,
     "isApk": false,
     "isLink": true,
-    "isNegative": true,
+    "isNegative": false,
     "bottomMessage": "",
-    "isAlternative": true,
-    "alternativeLink": "https://semawur.com/LDPUBGM090"
+    "isAlternative": false,
+    "alternativeLink": ""
 }
